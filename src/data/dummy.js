@@ -247,7 +247,7 @@ export const zoology = [
       "Mucous glands",
       "Wax gland",
     ],
-    correctAnswers: ["Hairs", "Mucous glands"],
+    correctAnswers: ["Mucous glands"],
   },
   {
     id: 21,
